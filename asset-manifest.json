@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/appwebcabinet/static/css/main.dd11d01c.css",
+    "main.js": "/appwebcabinet/static/js/main.cc38a7eb.js",
+    "static/js/787.e4c37482.chunk.js": "/appwebcabinet/static/js/787.e4c37482.chunk.js",
+    "static/media/image3.jpg": "/appwebcabinet/static/media/image3.d10a4431ef9e874448e7.jpg",
+    "static/media/image2.jpg": "/appwebcabinet/static/media/image2.88ff885423ab046fca6c.jpg",
+    "static/media/logo.jpg": "/appwebcabinet/static/media/logo.ddd37bebfdcf8ac4992b.jpg",
+    "static/media/logo.svg": "/appwebcabinet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/appwebcabinet/index.html",
+    "main.dd11d01c.css.map": "/appwebcabinet/static/css/main.dd11d01c.css.map",
+    "main.cc38a7eb.js.map": "/appwebcabinet/static/js/main.cc38a7eb.js.map",
+    "787.e4c37482.chunk.js.map": "/appwebcabinet/static/js/787.e4c37482.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd11d01c.css",
+    "static/js/main.cc38a7eb.js"
+  ]
+}
