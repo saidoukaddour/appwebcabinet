@@ -14,6 +14,7 @@
     flex-direction: column;
     height: 100%;
     justify-content: center;
+    background-color: rgb(224, 233, 241);
 }
 
 .rendezvous .formside h1{
@@ -21,7 +22,7 @@
     font-weight: 10;
     font-size: 50px;
     margin-left: 30px;
-    text-align: center;
+    
 
 }
 
@@ -34,19 +35,21 @@ form{
 }
 
 form input{
-    height: 40px;
+    height: 30px;
     width: 80%;
     border: none;
     border-bottom: 1px solid black;
     color: black;
+    background-color: rgb(224, 233, 241);
 }
 
 select{
-    height: 40px;
+    height: 30px;
     width: 80%;
     border: none;
     border-bottom: 1px solid black;
     color: black;
+    background-color: rgb(224, 233, 241);
 }
 
 input::placeholder{
@@ -71,6 +74,10 @@ form input:focus{
     border: none;
     background-color: #121619;
     color: whitesmoke;
-    font-size: 15px;
+    font-size: 10px;
     cursor: pointer;
+  }
+
+  form button:hover{
+      background-color:rgb(93, 255, 29); 
   }

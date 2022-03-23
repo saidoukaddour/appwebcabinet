@@ -1,5 +1,5 @@
 import React from 'react'
-import image from '../assests/rdvimage.jpg'
+import image from '../assests/image3.jpg'
 import '../style/Rendezvous.css'
 function Rendezvous() {
   return (
@@ -13,11 +13,11 @@ function Rendezvous() {
               <h1>VOUS DEVEZ REMPLIR LE FORMULAIRE CI-DESSOUS</h1>
               <form id="form" methode="POST">
               <label>nom</label>
-              <input name="name" placeholder='entre votre nom' type ="text"/>
+              <input name="name" placeholder='entre votre nom' type ="text" required/>
               <label>prenom</label>
-              <input name="prenom" placeholder='entre votre prenom' type ="text"/>
+              <input name="prenom" placeholder='entre votre prenom' type ="text" required/>
               <label>numero de telephone</label>
-              <input name="num" placeholder='entre votre nom' type ="text"/>
+              <input name="num" placeholder='entre votre nom' type ="text" required/>
               <label>motif</label>
               <select>
               <option>consultaion</option>
@@ -26,6 +26,7 @@ function Rendezvous() {
 
               </select>
               <button type="submit"> valider</button>
+              
               </form>
             </div>
     </div>
