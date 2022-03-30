@@ -16,11 +16,14 @@ import Protheses from './pages/specialites/Protheses';
 import Orthodontie from './pages/specialites/Orthodontie';
 import Parodontie from './pages/specialites/Parodontie';
 import Pedodontie from './pages/specialites/Pedodontie';
+import Admin from './pages/Admin';
 
 function App() {
   return (
     <div className="App">
+    
       <BrowserRouter>
+      
       <Navbar/>
       <Routes>
       <Route path="/" element={<Accueil/>}>Accueil</Route>
@@ -37,8 +40,14 @@ function App() {
       <Route path="/orthodontie" element={<Orthodontie/>}>RendezVous</Route>
       <Route path="/parodontie" element={<Parodontie/>}>RendezVous</Route>
       <Route path="/pedodontie" element={<Pedodontie/>}>RendezVous</Route>
-      </Routes>
+
+
       
+      </Routes>
+      <Routes>
+      <Route path="/admin" element={<Admin/>}/>
+      <Route path="/admin/dashbord" element={<Admin/>}/>
+      </Routes>
       <Footer/>
       </BrowserRouter>
     </div>
