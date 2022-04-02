@@ -40,14 +40,11 @@ function App() {
       <Route path="/orthodontie" element={<Orthodontie/>}>RendezVous</Route>
       <Route path="/parodontie" element={<Parodontie/>}>RendezVous</Route>
       <Route path="/pedodontie" element={<Pedodontie/>}>RendezVous</Route>
-
+      <Route path="/admin" element={<Admin/>}/>
 
       
       </Routes>
-      <Routes>
-      <Route path="/admin" element={<Admin/>}/>
-      <Route path="/admin/dashbord" element={<Admin/>}/>
-      </Routes>
+      
       <Footer/>
       </BrowserRouter>
     </div>

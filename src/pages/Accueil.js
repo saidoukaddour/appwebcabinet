@@ -10,6 +10,7 @@ function Accueil() {
           <p>Your health is our focus</p>
           <Link to="/rendezvous">
           <button>Prendre Rendez-vous</button>
+          <h1>hiiii</h1>
           </Link>
 
         </div>
