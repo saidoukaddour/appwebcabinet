@@ -1,19 +1,20 @@
 {
-  "files": {
-    "main.css": "/appwebcabinet/static/css/main.dd11d01c.css",
-    "main.js": "/appwebcabinet/static/js/main.cc38a7eb.js",
-    "static/js/787.e4c37482.chunk.js": "/appwebcabinet/static/js/787.e4c37482.chunk.js",
-    "static/media/image3.jpg": "/appwebcabinet/static/media/image3.d10a4431ef9e874448e7.jpg",
-    "static/media/image2.jpg": "/appwebcabinet/static/media/image2.88ff885423ab046fca6c.jpg",
-    "static/media/logo.jpg": "/appwebcabinet/static/media/logo.ddd37bebfdcf8ac4992b.jpg",
-    "static/media/logo.svg": "/appwebcabinet/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/appwebcabinet/index.html",
-    "main.dd11d01c.css.map": "/appwebcabinet/static/css/main.dd11d01c.css.map",
-    "main.cc38a7eb.js.map": "/appwebcabinet/static/js/main.cc38a7eb.js.map",
-    "787.e4c37482.chunk.js.map": "/appwebcabinet/static/js/787.e4c37482.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.dd11d01c.css",
-    "static/js/main.cc38a7eb.js"
-  ]
+  "main.css": "/appwebcabinet/static/css/main.f7e8b9f3.chunk.css",
+  "main.js": "/appwebcabinet/static/js/main.657baa41.chunk.js",
+  "main.js.map": "/appwebcabinet/static/js/main.657baa41.chunk.js.map",
+  "static/js/1.dca74a03.chunk.js": "/appwebcabinet/static/js/1.dca74a03.chunk.js",
+  "static/js/1.dca74a03.chunk.js.map": "/appwebcabinet/static/js/1.dca74a03.chunk.js.map",
+  "static/js/2.1dee23eb.chunk.js": "/appwebcabinet/static/js/2.1dee23eb.chunk.js",
+  "static/js/2.1dee23eb.chunk.js.map": "/appwebcabinet/static/js/2.1dee23eb.chunk.js.map",
+  "runtime~main.js": "/appwebcabinet/static/js/runtime~main.61e8e6d5.js",
+  "runtime~main.js.map": "/appwebcabinet/static/js/runtime~main.61e8e6d5.js.map",
+  "static/media/image2.jpg": "/appwebcabinet/static/media/image2.f9556c20.jpg",
+  "static/media/image3.jpg": "/appwebcabinet/static/media/image3.07b1a5e9.jpg",
+  "static/media/logo.jpg": "/appwebcabinet/static/media/logo.fb31fc9a.jpg",
+  "static/media/logo.svg": "/appwebcabinet/static/media/logo.06e73328.svg",
+  "static/media/image5.jpg": "/appwebcabinet/static/media/image5.c3f52ad4.jpg",
+  "static/css/main.f7e8b9f3.chunk.css.map": "/appwebcabinet/static/css/main.f7e8b9f3.chunk.css.map",
+  "index.html": "/appwebcabinet/index.html",
+  "precache-manifest.a14e71768eded410477ee242d66c368a.js": "/appwebcabinet/precache-manifest.a14e71768eded410477ee242d66c368a.js",
+  "service-worker.js": "/appwebcabinet/service-worker.js"
 }
